@@ -2,8 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-description 'ESX Butchering Animals Script'
-author 'Dein Name'
+description 'Hunting'
+author 'CCP'
 
 shared_script 'config.lua'
 
